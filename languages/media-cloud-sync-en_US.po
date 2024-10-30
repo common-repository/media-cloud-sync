@@ -1,0 +1,470 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: src/components/Buttons/index.jsx:53
+msgid "PURCHASE PREMIUM"
+msgstr ""
+
+#: src/components/Buttons/index.jsx:9
+msgid "Button"
+msgstr ""
+
+#: src/components/ConnectCard/index.jsx:10
+msgid "Connect to the cloud service to get started with syncing with cloud service"
+msgstr ""
+
+#: src/components/ConnectCard/index.jsx:16
+#: src/pages/Configure.jsx:68
+#: src/schema.js:61
+msgid "Configure"
+msgstr ""
+
+#: src/components/ConnectCard/index.jsx:8
+msgid "Connect to server"
+msgstr ""
+
+#: src/components/CreateBucketPopup/index.jsx:141
+msgid "Create"
+msgstr ""
+
+#: src/components/Header/index.jsx:12
+msgid "Premium Version Coming Soon"
+msgstr ""
+
+#: src/components/Loading/index.jsx:11
+msgid "Media Cloud Sync is loading please wait..."
+msgstr ""
+
+#: src/components/MediaStatusCard/index.jsx:15
+msgid "Synced"
+msgstr ""
+
+#: src/components/MediaStatusCard/index.jsx:25
+msgid "Re-configure"
+msgstr ""
+
+#: src/components/PremiumBanner/index.jsx:10
+msgid "Premium version coming soon Get notified when we launch"
+msgstr ""
+
+#: src/components/PremiumBanner/index.jsx:15
+msgid "COMING SOON"
+msgstr ""
+
+#: src/components/PremiumBanner/index.jsx:8
+msgid "We are building something awesome!"
+msgstr ""
+
+#: src/components/WelcomeContent/index.jsx:7
+msgid "Hey There,"
+msgstr ""
+
+#: src/components/WelcomeContent/index.jsx:9
+msgid "Welcome to Media Cloud Sync Dashboard"
+msgstr ""
+
+#: src/pages/Configure.jsx:123
+#: src/pages/configure/setCredentials.jsx:18
+msgid "Credentials"
+msgstr ""
+
+#: src/pages/Configure.jsx:172
+msgid "Chosen Bucket"
+msgstr ""
+
+#: src/pages/Configure.jsx:384
+msgid "Exit"
+msgstr ""
+
+#: src/pages/Configure.jsx:60
+msgid "Hey, There"
+msgstr ""
+
+#: src/pages/Configure.jsx:61
+msgid "Welcome to Media Cloud Sync"
+msgstr ""
+
+#: src/pages/Configure.jsx:64
+msgid "Configure Cloud Service"
+msgstr ""
+
+#: src/pages/Configure.jsx:65
+msgid "Choose your cloud service to connect to cloud."
+msgstr ""
+
+#: src/pages/Configure.jsx:69
+msgid "Fill out the fields to connect to the cloud."
+msgstr ""
+
+#: src/pages/Configure.jsx:72
+#: src/schema.js:111
+msgid "Save"
+msgstr ""
+
+#: src/pages/Configure.jsx:73
+msgid "Save the credentials."
+msgstr ""
+
+#: src/pages/Settings.jsx:103
+msgid "Resettings the settings"
+msgstr ""
+
+#: src/pages/Settings.jsx:121
+msgid "Back to Dashboard"
+msgstr ""
+
+#: src/pages/Settings.jsx:125
+#: src/schema.js:18
+msgid "Settings"
+msgstr ""
+
+#: src/pages/Settings.jsx:126
+msgid "Customise Media Cloud Sync"
+msgstr ""
+
+#: src/pages/Settings.jsx:305
+msgid "Reset Defaults"
+msgstr ""
+
+#: src/pages/Settings.jsx:306
+msgid "Save Changes"
+msgstr ""
+
+#: src/pages/Settings.jsx:79
+msgid "Saving configuration"
+msgstr ""
+
+#: src/pages/configure/Footer/index.jsx:12
+#: src/schema.js:110
+msgid "Back"
+msgstr ""
+
+#: src/pages/configure/Footer/index.jsx:12
+#: src/schema.js:91
+msgid "Next"
+msgstr ""
+
+#: src/pages/configure/provider.jsx:49
+#: src/schema.js:52
+msgid "Choose Provider"
+msgstr ""
+
+#: src/pages/configure/setBucket.jsx:16
+#: src/schema.js:999
+msgid "Bucket"
+msgstr ""
+
+#: src/pages/configure/setBucket.jsx:70
+#: src/pages/configure/setCredentials.jsx:78
+msgid "Verifying"
+msgstr ""
+
+#: src/pages/configure/setBucket.jsx:71
+#: src/pages/configure/setCredentials.jsx:79
+msgid "Verifying your"
+msgstr ""
+
+#: src/pages/configure/setBucket.jsx:79
+msgid "Choose"
+msgstr ""
+
+#: src/pages/configure/setBucket.jsx:90
+msgid "Create one"
+msgstr ""
+
+#: src/pages/configure/setCredentials.jsx:63
+msgid "Uploading configuration"
+msgstr ""
+
+#: src/pages/configure/setCredentials.jsx:87
+msgid "Connect to"
+msgstr ""
+
+#: src/pages/configure/setCredentials.jsx:90
+msgid "Trouble finding the credentials? View our "
+msgstr ""
+
+#: src/pages/configure/setCredentials.jsx:97
+msgid "documentation"
+msgstr ""
+
+#: src/pages/configure/verify.jsx:17
+msgid "Successfully connected to"
+msgstr ""
+
+#: src/pages/configure/verify.jsx:20
+msgid "Click Save button to save the configuration"
+msgstr ""
+
+#: src/pages/configure/welcome.jsx:10
+msgid "Media Cloud Sync"
+msgstr ""
+
+#: src/pages/configure/welcome.jsx:12
+msgid ""
+"Media Cloud Sync helps to sync the Wordpress media to cloud services like "
+"Amazon S3, Google  Cloud Storage and Digital Ocean Services "
+msgstr ""
+
+#: src/pages/configure/welcome.jsx:17
+msgid ""
+"Configure your cloud storage by  following steps, click Next to start "
+"configuring"
+msgstr ""
+
+#: src/schema.js:1005
+msgid "Choose Bucket"
+msgstr ""
+
+#: src/schema.js:1019
+msgid "Bucket not yet created ?"
+msgstr ""
+
+#: src/schema.js:1020
+msgid "Create Amazon S3 Bucket"
+msgstr ""
+
+#: src/schema.js:1021
+msgid "Fill the details below to create the bucket."
+msgstr ""
+
+#: src/schema.js:1027
+msgid "Bucket Name"
+msgstr ""
+
+#: src/schema.js:103
+msgid "Verify"
+msgstr ""
+
+#: src/schema.js:1030
+msgid "Enter Bucket Name"
+msgstr ""
+
+#: src/schema.js:1043
+msgid "Use Transfer Accilaration"
+msgstr ""
+
+#: src/schema.js:1054
+msgid "Basic Settings"
+msgstr ""
+
+#: src/schema.js:1058
+msgid "Copy files to bucket"
+msgstr ""
+
+#: src/schema.js:1062
+msgid "Upload to bucket, when ever a file is uploaded to Media Library"
+msgstr ""
+
+#: src/schema.js:1070
+msgid "S3 base path"
+msgstr ""
+
+#: src/schema.js:1074
+msgid "This is the base directory path of the media storage in Amazon S3"
+msgstr ""
+
+#: src/schema.js:1081
+msgid "Enter base path"
+msgstr ""
+
+#: src/schema.js:1088
+msgid "Year/Month Structure"
+msgstr ""
+
+#: src/schema.js:1092
+msgid ""
+"This will enable year/month directories at the end of your base path. "
+"Otherwise it will be uploaded in to the base path directly."
+msgstr ""
+
+#: src/schema.js:1100
+msgid "Object versioning"
+msgstr ""
+
+#: src/schema.js:1104
+msgid "Append a timestamp to the bucket path."
+msgstr ""
+
+#: src/schema.js:1112
+msgid "Enable Pre-signed URL"
+msgstr ""
+
+#: src/schema.js:1116
+msgid "Enable Pre-signed url for files"
+msgstr ""
+
+#: src/schema.js:1124
+msgid "Pre-signed expires"
+msgstr ""
+
+#: src/schema.js:1128
+msgid "Pre-signed url expiry time in minutes"
+msgstr ""
+
+#: src/schema.js:1136
+msgid "Enter duration in minutes"
+msgstr ""
+
+#: src/schema.js:1148
+msgid "Remove files from server"
+msgstr ""
+
+#: src/schema.js:1152
+msgid "Use this to remove file from server, Once it is uploaded to bucket"
+msgstr ""
+
+#: src/schema.js:1158
+msgid ""
+"<p>This setting will remove the files from the server once it is uploaded "
+"to the cloud, And it can lead to issues if you deactivate our plugin, So be "
+"careful before enabling this.</p><p>There is no option to copy these files "
+"back to the server in this plugin's free version. Though you can manually "
+"download it from the cloud and upload using FTP.</p>"
+msgstr ""
+
+#: src/schema.js:1167
+msgid "Rewrite media URL's"
+msgstr ""
+
+#: src/schema.js:1171
+msgid ""
+"For media library files that have been copied to the bucket, rewrite the "
+"URLs so that they are served from the bucket or CDN instead of your server."
+msgstr ""
+
+#: src/schema.js:1181
+msgid "CDN Settings"
+msgstr ""
+
+#: src/schema.js:1185
+msgid "Enable CDN / Custom End Point"
+msgstr ""
+
+#: src/schema.js:1189
+msgid "Enable a CDN / Custom End Point for your bucket"
+msgstr ""
+
+#: src/schema.js:119
+msgid "Amazon S3"
+msgstr ""
+
+#: src/schema.js:1197
+msgid "CDN / Custom End Point URL"
+msgstr ""
+
+#: src/schema.js:1201
+msgid ""
+"Configure CDN / Custom End Point URL to point the bucket. Configure a "
+"subdomain to point at your CDN to ensure SEO for site."
+msgstr ""
+
+#: src/schema.js:1210
+msgid "Enter URL"
+msgstr ""
+
+#: src/schema.js:122
+msgid ""
+"Amazon S3 is an object storage service that offers high scalability, "
+"durability, and security for data storage and retrieval across the web."
+msgstr ""
+
+#: src/schema.js:19
+msgid "Configure Media Cloud settings"
+msgstr ""
+
+#: src/schema.js:31
+msgid "Documentation"
+msgstr ""
+
+#: src/schema.js:32
+msgid "View the Media Cloud Sync Documentation here"
+msgstr ""
+
+#: src/schema.js:46
+msgid "Welcome"
+msgstr ""
+
+#: src/schema.js:514
+msgid "Google Cloud"
+msgstr ""
+
+#: src/schema.js:517
+msgid ""
+"Google Cloud Storage is a unified object storage service that provides high "
+"scalability, durability, and seamless integration with Google Cloud "
+"services for efficient data management and access."
+msgstr ""
+
+#: src/schema.js:527
+msgid "JSON Configuration file"
+msgstr ""
+
+#: src/schema.js:529
+msgid "Choose JSON file"
+msgstr ""
+
+#: src/schema.js:54
+msgid "Choose the cloud service"
+msgstr ""
+
+#: src/schema.js:552
+msgid "Create Google Cloud Bucket"
+msgstr ""
+
+#: src/schema.js:63
+msgid "Configure the credentials"
+msgstr ""
+
+#: src/schema.js:72
+msgid "Verify the settings and save"
+msgstr ""
+
+#: src/schema.js:769
+msgid "Google cloud base path"
+msgstr ""
+
+#: src/schema.js:773
+msgid "This is the base directory path of the media storage in Google Cloud Storage"
+msgstr ""
+
+#: src/schema.js:920
+msgid "Digital Ocean"
+msgstr ""
+
+#: src/schema.js:923
+msgid ""
+"DigitalOcean Spaces is a cost-effective object storage solution designed "
+"for simplicity, scalability, and high availability, ideal for storing and "
+"serving large amounts of unstructured data"
+msgstr ""
+
+#: src/schema.js:933
+msgid "Access Key"
+msgstr ""
+
+#: src/schema.js:935
+msgid "Enter access key"
+msgstr ""
+
+#: src/schema.js:947
+msgid "Secret Key"
+msgstr ""
+
+#: src/schema.js:949
+msgid "Enter secret key"
+msgstr ""
+
+#: src/schema.js:961
+msgid "Region"
+msgstr ""
+
+#: src/schema.js:962
+msgid "Choose region"
+msgstr ""
+
+#: src/schema.js:99
+msgid "Connect"
+msgstr ""

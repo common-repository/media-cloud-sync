@@ -1,0 +1,688 @@
+# Copyright (C) 2024 Dudlewebs
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Media Cloud Sync 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/media-cloud-sync\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-26T10:55:23+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: media-cloud-sync\n"
+
+#. Plugin Name of the plugin
+#: media-cloud-sync.php
+#: includes/admin.php:214
+#: includes/admin.php:215
+#: includes/base/services/gcloud.php:73
+msgid "Media Cloud Sync"
+msgstr ""
+
+#. Description of the plugin
+#: media-cloud-sync.php
+msgid "Media Cloud Sync helps to sync your wordpress media to the cloud based services."
+msgstr ""
+
+#. Author of the plugin
+#: media-cloud-sync.php
+msgid "Dudlewebs"
+msgstr ""
+
+#. Author URI of the plugin
+#: media-cloud-sync.php
+msgid "http://dudlewebs.com"
+msgstr ""
+
+#: includes/admin.php:199
+msgid "Get Started"
+msgstr ""
+
+#: includes/admin.php:200
+#: includes/admin.php:235
+#: includes/admin.php:236
+#: app/src/schema.js:18
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11560
+msgid "Settings"
+msgstr ""
+
+#: includes/admin.php:225
+#: includes/admin.php:226
+msgid "Dashboard"
+msgstr ""
+
+#: includes/admin.php:244
+#: includes/admin.php:245
+#: app/src/components/ConnectCard/index.jsx:16
+#: app/src/schema.js:61
+#: assets/js/backend.js:2
+#: assets/js/backend.js:9370
+#: assets/js/backend.js:11603
+msgid "Configure"
+msgstr ""
+
+#: includes/admin.php:266
+msgid "Media Cloud Sync By Dudlewebs"
+msgstr ""
+
+#: includes/admin.php:267
+msgid "Plugin is loading Please wait for a while.."
+msgstr ""
+
+#: includes/admin.php:302
+msgid "Provider: "
+msgstr ""
+
+#: includes/admin.php:303
+msgid "Region: "
+msgstr ""
+
+#: includes/admin.php:304
+msgid "Access: "
+msgstr ""
+
+#: includes/admin.php:305
+#: includes/integrations/media-library.php:74
+msgid "Private"
+msgstr ""
+
+#: includes/admin.php:306
+#: includes/integrations/media-library.php:74
+msgid "Public"
+msgstr ""
+
+#: includes/api.php:88
+msgid "Something went wrong. Invalid data recieved"
+msgstr ""
+
+#: includes/api.php:125
+msgid "Configuration saved successfully"
+msgstr ""
+
+#: includes/api.php:179
+msgid "Invalid file format"
+msgstr ""
+
+#: includes/api.php:186
+msgid "Insufficient data. Please try again"
+msgstr ""
+
+#: includes/base/service.php:49
+#: includes/base/service.php:115
+#: includes/base/service.php:184
+msgid "Something went wrong"
+msgstr ""
+
+#: includes/base/service.php:57
+#: includes/base/service.php:123
+#: includes/base/service.php:192
+msgid "No service selected"
+msgstr ""
+
+#: includes/base/service.php:72
+#: includes/base/service.php:87
+#: includes/base/service.php:132
+#: includes/base/service.php:152
+#: includes/base/service.php:201
+#: includes/base/service.php:218
+#: includes/base/services/docean.php:128
+#: includes/base/services/docean.php:235
+#: includes/base/services/docean.php:245
+#: includes/base/services/docean.php:584
+#: includes/base/services/docean.php:649
+#: includes/base/services/docean.php:698
+#: includes/base/services/gcloud.php:120
+#: includes/base/services/gcloud.php:131
+#: includes/base/services/gcloud.php:209
+#: includes/base/services/gcloud.php:414
+#: includes/base/services/gcloud.php:477
+#: includes/base/services/gcloud.php:524
+#: includes/base/services/s3.php:120
+#: includes/base/services/s3.php:223
+#: includes/base/services/s3.php:233
+#: includes/base/services/s3.php:570
+#: includes/base/services/s3.php:635
+#: includes/base/services/s3.php:684
+msgid "Insufficient Data. Please try again"
+msgstr ""
+
+#: includes/base/service.php:101
+#: includes/base/service.php:170
+#: includes/base/service.php:237
+msgid "Invalid service"
+msgstr ""
+
+#: includes/base/services/docean.php:120
+#: includes/base/services/gcloud.php:113
+#: includes/base/services/s3.php:112
+msgid "Credentials are valid"
+msgstr ""
+
+#: includes/base/services/docean.php:123
+#: includes/base/services/docean.php:125
+#: includes/base/services/docean.php:230
+#: includes/base/services/docean.php:232
+#: includes/base/services/docean.php:291
+#: includes/base/services/docean.php:293
+#: includes/base/services/gcloud.php:115
+#: includes/base/services/gcloud.php:117
+#: includes/base/services/gcloud.php:195
+#: includes/base/services/gcloud.php:197
+#: includes/base/services/gcloud.php:235
+#: includes/base/services/gcloud.php:237
+#: includes/base/services/s3.php:115
+#: includes/base/services/s3.php:117
+#: includes/base/services/s3.php:218
+#: includes/base/services/s3.php:220
+#: includes/base/services/s3.php:277
+#: includes/base/services/s3.php:279
+msgid "Please check the authorization details"
+msgstr ""
+
+#: includes/base/services/docean.php:170
+#: includes/base/services/s3.php:158
+msgid "No matching bucket found"
+msgstr ""
+
+#: includes/base/services/docean.php:212
+msgid "Configuration for Digital Ocean has verified successfully"
+msgstr ""
+
+#: includes/base/services/docean.php:214
+#: includes/base/services/s3.php:202
+msgid "Bucket has permission issues on deleting the object from bucket, Please check ACL permission as well as policies"
+msgstr ""
+
+#: includes/base/services/docean.php:217
+#: includes/base/services/s3.php:205
+msgid "Bucket has permission issues on getting the object from bucket, Please check ACL permission as well as policies"
+msgstr ""
+
+#: includes/base/services/docean.php:223
+#: includes/base/services/s3.php:211
+msgid "Bucket has permission issues on putting object in to bucket, Please check ACL permission as well as policies"
+msgstr ""
+
+#: includes/base/services/docean.php:226
+#: includes/base/services/gcloud.php:190
+#: includes/base/services/s3.php:214
+msgid "Bucket Name is incorrect"
+msgstr ""
+
+#: includes/base/services/docean.php:274
+#: includes/base/services/gcloud.php:223
+#: includes/base/services/s3.php:260
+msgid "Bucket created successfully. Choose bucket from list to select the bucket."
+msgstr ""
+
+#: includes/base/services/docean.php:283
+#: includes/base/services/s3.php:269
+msgid "Bucket created and made public. But the following error happened while setting the transfer accilaration,"
+msgstr ""
+
+#: includes/base/services/docean.php:286
+#: includes/base/services/s3.php:272
+msgid "Bucket created. But the following error happened while setting the public access,"
+msgstr ""
+
+#: includes/base/services/docean.php:523
+#: includes/base/services/docean.php:556
+#: includes/base/services/gcloud.php:351
+#: includes/base/services/gcloud.php:386
+#: includes/base/services/s3.php:509
+#: includes/base/services/s3.php:542
+msgid "File Uploaded Successfully"
+msgstr ""
+
+#: includes/base/services/docean.php:562
+#: includes/base/services/gcloud.php:392
+#: includes/base/services/s3.php:548
+msgid "Something happened while uploading to server"
+msgstr ""
+
+#: includes/base/services/docean.php:577
+#: includes/base/services/gcloud.php:407
+#: includes/base/services/s3.php:563
+msgid "Check the file you are trying to upload. Please try again"
+msgstr ""
+
+#: includes/base/services/docean.php:629
+#: includes/base/services/gcloud.php:457
+#: includes/base/services/s3.php:615
+msgid "Deleted Successfully"
+msgstr ""
+
+#: includes/base/services/docean.php:635
+#: includes/base/services/gcloud.php:463
+#: includes/base/services/s3.php:621
+msgid "File not deleted"
+msgstr ""
+
+#: includes/base/services/docean.php:678
+#: includes/base/services/gcloud.php:504
+#: includes/base/services/s3.php:664
+msgid "Got Presigned URL Successfully"
+msgstr ""
+
+#: includes/base/services/docean.php:684
+#: includes/base/services/gcloud.php:510
+#: includes/base/services/s3.php:670
+msgid "Error getting presigned URL"
+msgstr ""
+
+#: includes/base/services/gcloud.php:143
+msgid "No Buckets found"
+msgstr ""
+
+#: includes/base/services/gcloud.php:179
+msgid "Configuration for Google Cloud Storage verified successfully"
+msgstr ""
+
+#: includes/base/services/gcloud.php:181
+msgid "Bucket has permission issues on deleting the object from bucket, Please check permission as well as policies"
+msgstr ""
+
+#: includes/base/services/gcloud.php:184
+msgid "Bucket has permission issues on getting the object from bucket, Please check permission as well as policies"
+msgstr ""
+
+#: includes/base/services/gcloud.php:187
+msgid "Bucket has permission issues on putting object in to bucket, Please check permission as well as policies"
+msgstr ""
+
+#: includes/base/services/gcloud.php:357
+msgid "Object not found at server."
+msgstr ""
+
+#: includes/base/services/s3.php:200
+msgid "Configuration for AWS/S3 has verified successfully"
+msgstr ""
+
+#: includes/config/schema.php:26
+msgid "AWS/S3"
+msgstr ""
+
+#: includes/config/schema.php:27
+msgid "Google Cloud Storage"
+msgstr ""
+
+#: includes/config/schema.php:28
+msgid "Digital Ocean Spaces"
+msgstr ""
+
+#: includes/integrations/media-library.php:59
+msgid "Provider :"
+msgstr ""
+
+#: includes/integrations/media-library.php:67
+msgid "Region :"
+msgstr ""
+
+#: includes/integrations/media-library.php:74
+msgid "Access :"
+msgstr ""
+
+#: includes/main.php:160
+#: includes/main.php:173
+msgid "Something went wrong."
+msgstr ""
+
+#. translators: %s: PHP version.
+#: media-cloud-sync.php:76
+msgid "%1$s requires PHP version %2$s+, plugin is currently not running."
+msgstr ""
+
+#. translators: %s: WordPress version.
+#: media-cloud-sync.php:92
+msgid "%1$s requires WordPress version %2$s+. Because you are using an earlier version, the plugin is currently not running."
+msgstr ""
+
+#: app/src/components/Buttons/index.jsx:9
+#: assets/js/backend.js:2
+#: assets/js/backend.js:9301
+msgid "Button"
+msgstr ""
+
+#: app/src/components/Buttons/index.jsx:41
+#: app/src/components/Buttons/index.jsx:53
+#: assets/js/backend.js:2
+#: assets/js/backend.js:9333
+#: assets/js/backend.js:9345
+msgid "PURCHASE PREMIUM"
+msgstr ""
+
+#: app/src/components/ConnectCard/index.jsx:8
+#: assets/js/backend.js:2
+#: assets/js/backend.js:9362
+msgid "Connect to server"
+msgstr ""
+
+#: app/src/components/ConnectCard/index.jsx:10
+#: assets/js/backend.js:2
+#: assets/js/backend.js:9364
+msgid "Connect to the cloud service to get started with syncing with cloud service"
+msgstr ""
+
+#: app/src/components/Header/index.jsx:12
+#: assets/js/backend.js:2
+#: assets/js/backend.js:9584
+msgid "Premium Version Coming Soon"
+msgstr ""
+
+#: app/src/components/WelcomeContent/index.jsx:7
+#: assets/js/backend.js:2
+#: assets/js/backend.js:9810
+msgid "Hey There,"
+msgstr ""
+
+#: app/src/components/WelcomeContent/index.jsx:9
+#: assets/js/backend.js:2
+#: assets/js/backend.js:9812
+msgid "Welcome to Media Cloud Sync Dashboard"
+msgstr ""
+
+#: app/src/schema.js:19
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11561
+msgid "Configure Media Cloud settings"
+msgstr ""
+
+#: app/src/schema.js:31
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11573
+msgid "Documentation"
+msgstr ""
+
+#: app/src/schema.js:32
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11574
+msgid "View the Media Cloud Sync Documentation here"
+msgstr ""
+
+#: app/src/schema.js:46
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11588
+msgid "Welcome"
+msgstr ""
+
+#: app/src/schema.js:52
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11594
+msgid "Choose Provider"
+msgstr ""
+
+#: app/src/schema.js:54
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11596
+msgid "Choose the cloud service"
+msgstr ""
+
+#: app/src/schema.js:63
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11605
+msgid "Configure the credentials"
+msgstr ""
+
+#: app/src/schema.js:70
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11612
+msgid "Verify"
+msgstr ""
+
+#: app/src/schema.js:72
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11614
+msgid "Verify the settings and save"
+msgstr ""
+
+#: app/src/schema.js:351
+#: app/src/schema.js:757
+#: app/src/schema.js:1058
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11893
+#: assets/js/backend.js:12299
+#: assets/js/backend.js:12600
+msgid "Copy files to bucket"
+msgstr ""
+
+#: app/src/schema.js:355
+#: app/src/schema.js:761
+#: app/src/schema.js:1062
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11897
+#: assets/js/backend.js:12303
+#: assets/js/backend.js:12604
+msgid "Upload to bucket, when ever a file is uploaded to Media Library"
+msgstr ""
+
+#: app/src/schema.js:363
+#: app/src/schema.js:1070
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11905
+#: assets/js/backend.js:12612
+msgid "S3 base path"
+msgstr ""
+
+#: app/src/schema.js:367
+#: app/src/schema.js:1074
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11909
+#: assets/js/backend.js:12616
+msgid "This is the base directory path of the media storage in Amazon S3"
+msgstr ""
+
+#: app/src/schema.js:374
+#: app/src/schema.js:780
+#: app/src/schema.js:1081
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11916
+#: assets/js/backend.js:12322
+#: assets/js/backend.js:12623
+msgid "Enter base path"
+msgstr ""
+
+#: app/src/schema.js:381
+#: app/src/schema.js:787
+#: app/src/schema.js:1088
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11923
+#: assets/js/backend.js:12329
+#: assets/js/backend.js:12630
+msgid "Year/Month Structure"
+msgstr ""
+
+#: app/src/schema.js:385
+#: app/src/schema.js:791
+#: app/src/schema.js:1092
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11927
+#: assets/js/backend.js:12333
+#: assets/js/backend.js:12634
+msgid "This will enable year/month directories at the end of your base path. Otherwise it will be uploaded in to the base path directly."
+msgstr ""
+
+#: app/src/schema.js:393
+#: app/src/schema.js:799
+#: app/src/schema.js:1100
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11935
+#: assets/js/backend.js:12341
+#: assets/js/backend.js:12642
+msgid "Object versioning"
+msgstr ""
+
+#: app/src/schema.js:397
+#: app/src/schema.js:803
+#: app/src/schema.js:1104
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11939
+#: assets/js/backend.js:12345
+#: assets/js/backend.js:12646
+msgid "Append a timestamp to the bucket path."
+msgstr ""
+
+#: app/src/schema.js:405
+#: app/src/schema.js:811
+#: app/src/schema.js:1112
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11947
+#: assets/js/backend.js:12353
+#: assets/js/backend.js:12654
+msgid "Enable Pre-signed URL"
+msgstr ""
+
+#: app/src/schema.js:409
+#: app/src/schema.js:815
+#: app/src/schema.js:1116
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11951
+#: assets/js/backend.js:12357
+#: assets/js/backend.js:12658
+msgid "Enable Pre-signed url for files"
+msgstr ""
+
+#: app/src/schema.js:417
+#: app/src/schema.js:823
+#: app/src/schema.js:1124
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11959
+#: assets/js/backend.js:12365
+#: assets/js/backend.js:12666
+msgid "Pre-signed expires"
+msgstr ""
+
+#: app/src/schema.js:421
+#: app/src/schema.js:827
+#: app/src/schema.js:1128
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11963
+#: assets/js/backend.js:12369
+#: assets/js/backend.js:12670
+msgid "Pre-signed url expiry time in minutes"
+msgstr ""
+
+#: app/src/schema.js:429
+#: app/src/schema.js:835
+#: app/src/schema.js:1136
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11971
+#: assets/js/backend.js:12377
+#: assets/js/backend.js:12678
+msgid "Enter duration in minutes"
+msgstr ""
+
+#: app/src/schema.js:441
+#: app/src/schema.js:847
+#: app/src/schema.js:1148
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11983
+#: assets/js/backend.js:12389
+#: assets/js/backend.js:12690
+msgid "Remove files from server"
+msgstr ""
+
+#: app/src/schema.js:445
+#: app/src/schema.js:851
+#: app/src/schema.js:1152
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11987
+#: assets/js/backend.js:12393
+#: assets/js/backend.js:12694
+msgid "Use this to remove file from server, Once it is uploaded to bucket"
+msgstr ""
+
+#: app/src/schema.js:451
+#: app/src/schema.js:857
+#: app/src/schema.js:1158
+#: assets/js/backend.js:2
+#: assets/js/backend.js:11993
+#: assets/js/backend.js:12399
+#: assets/js/backend.js:12700
+msgid "<p>This setting will remove the files from the server once it is uploaded to the cloud, And it can lead to issues if you deactivate our plugin, So be careful before enabling this.</p><p>There is no option to copy these files back to the server in this plugin's free version. Though you can manually download it from the cloud and upload using FTP.</p>"
+msgstr ""
+
+#: app/src/schema.js:460
+#: app/src/schema.js:866
+#: app/src/schema.js:1167
+#: assets/js/backend.js:2
+#: assets/js/backend.js:12002
+#: assets/js/backend.js:12408
+#: assets/js/backend.js:12709
+msgid "Rewrite media URL's"
+msgstr ""
+
+#: app/src/schema.js:464
+#: app/src/schema.js:870
+#: app/src/schema.js:1171
+#: assets/js/backend.js:2
+#: assets/js/backend.js:12006
+#: assets/js/backend.js:12412
+#: assets/js/backend.js:12713
+msgid "For media library files that have been copied to the bucket, rewrite the URLs so that they are served from the bucket or CDN instead of your server."
+msgstr ""
+
+#: app/src/schema.js:478
+#: app/src/schema.js:884
+#: app/src/schema.js:1185
+#: assets/js/backend.js:2
+#: assets/js/backend.js:12020
+#: assets/js/backend.js:12426
+#: assets/js/backend.js:12727
+msgid "Enable CDN / Custom End Point"
+msgstr ""
+
+#: app/src/schema.js:482
+#: app/src/schema.js:888
+#: app/src/schema.js:1189
+#: assets/js/backend.js:2
+#: assets/js/backend.js:12024
+#: assets/js/backend.js:12430
+#: assets/js/backend.js:12731
+msgid "Enable a CDN / Custom End Point for your bucket"
+msgstr ""
+
+#: app/src/schema.js:490
+#: app/src/schema.js:896
+#: app/src/schema.js:1197
+#: assets/js/backend.js:2
+#: assets/js/backend.js:12032
+#: assets/js/backend.js:12438
+#: assets/js/backend.js:12739
+msgid "CDN / Custom End Point URL"
+msgstr ""
+
+#: app/src/schema.js:494
+#: app/src/schema.js:900
+#: app/src/schema.js:1201
+#: assets/js/backend.js:2
+#: assets/js/backend.js:12036
+#: assets/js/backend.js:12442
+#: assets/js/backend.js:12743
+msgid "Configure CDN / Custom End Point URL to point the bucket. Configure a subdomain to point at your CDN to ensure SEO for site."
+msgstr ""
+
+#: app/src/schema.js:503
+#: app/src/schema.js:909
+#: app/src/schema.js:1210
+#: assets/js/backend.js:2
+#: assets/js/backend.js:12045
+#: assets/js/backend.js:12451
+#: assets/js/backend.js:12752
+msgid "Enter URL"
+msgstr ""
+
+#: app/src/schema.js:769
+#: assets/js/backend.js:2
+#: assets/js/backend.js:12311
+msgid "Google cloud base path"
+msgstr ""
+
+#: app/src/schema.js:773
+#: assets/js/backend.js:2
+#: assets/js/backend.js:12315
+msgid "This is the base directory path of the media storage in Google Cloud Storage"
+msgstr ""
